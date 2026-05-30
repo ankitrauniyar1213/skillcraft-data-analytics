@@ -1,4 +1,4 @@
-# skillcraft-data-analytics
+# skillcraft-data-analytics task 1
 Data Analytics internship projects completed during SkillCraft Technology Internship using Excel, Power BI, SQL, and visualization tools.
 
 # SkillCraft Data Analytics
