@@ -1,8 +1,6 @@
 # skillcraft-data-analytics
 Data Analytics internship projects completed during SkillCraft Technology Internship using Excel, Power BI, SQL, and visualization tools.
 
-# SkillCraft Data Analytics
-
 ## Project Overview
 This repository contains Data Analytics internship projects completed during the SkillCraft Technology Internship.
 
@@ -20,7 +18,7 @@ Created an interactive sales dashboard using Excel with:
 - Slicers
 - Business Insights
 
-# SkillCraft-Task-02-Data-Cleaning
+# SkillCraft-Data-Cleaning
 
 SkillCraft Technology Internship Task 02: Data Cleaning and Preparation of Sales Forecasting Dataset using Python, Pandas, and Google Colab.
 
